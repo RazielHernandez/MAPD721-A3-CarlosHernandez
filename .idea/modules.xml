@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-geochat-35477f994b489c7f469a79c96fc678f9b337b66a.iml" filepath="$PROJECT_DIR$/.idea/modules/android-geochat-35477f994b489c7f469a79c96fc678f9b337b66a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-geochat-35477f994b489c7f469a79c96fc678f9b337b66a.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-geochat-35477f994b489c7f469a79c96fc678f9b337b66a.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-geochat-35477f994b489c7f469a79c96fc678f9b337b66a.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-geochat-35477f994b489c7f469a79c96fc678f9b337b66a.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-geochat-35477f994b489c7f469a79c96fc678f9b337b66a.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-geochat-35477f994b489c7f469a79c96fc678f9b337b66a.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-geochat-35477f994b489c7f469a79c96fc678f9b337b66a.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-geochat-35477f994b489c7f469a79c96fc678f9b337b66a.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

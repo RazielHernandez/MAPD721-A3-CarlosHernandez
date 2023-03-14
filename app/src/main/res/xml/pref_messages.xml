@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="2"
+        android:dialogTitle="@string/title_max_number_of_messages"
+        android:entries="@array/pref_max_number_of_messages"
+        android:entryValues="@array/pref_count_messages"
+        android:key="@string/key_messages"
+        android:summary="@string/title_max_number_of_messages"
+        android:title="@string/title_max_number_of_messages" />
+
+</PreferenceScreen>
